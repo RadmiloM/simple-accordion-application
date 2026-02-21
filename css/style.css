@@ -1,3 +1,8 @@
-.section {
-    color: orange;
+.section-container {
+    background-color: rgb(238,238,238);
+    padding: 15px 12px;
+}
+
+.section-title {
+    list-style: none;
 }
